@@ -88,7 +88,7 @@ function initThree() {
   
   // Create a fluid of spheres
   const spheres = [];
-  const sphereCount = 1000; // 增加到1000个球体
+  const sphereCount = 3000; // 增加到3000个球体
   
   // 长方体尺寸
   const boxWidth = 80;  // x轴方向（横向）
